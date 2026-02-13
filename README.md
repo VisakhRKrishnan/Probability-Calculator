@@ -27,7 +27,7 @@ A Next.js application for calculating probabilities using "CombinedWith" and "Ei
     ```bash
     npm run dev
     ```
-    Open [https://probabilitychecker.onrender.com/] with your browser.
+    Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 3. **Run tests**:
     ```bash
