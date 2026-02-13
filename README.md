@@ -40,3 +40,6 @@ A Next.js application for calculating probabilities using "CombinedWith" and "Ei
 - `src/components/Calculator.tsx`: Client component for the UI.
 - `src/utils`: Helper functions (if any).
 - `calculation_log.txt`: Log file generated at runtime.
+
+## Live Link
+   https://probabilitychecker.onrender.com/
